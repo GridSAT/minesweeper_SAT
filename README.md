@@ -1,0 +1,1 @@
+Simple SAT solver for minesweeper game
